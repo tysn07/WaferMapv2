@@ -1,0 +1,15 @@
+﻿{
+  "DieMap": [
+    [ 0, 0, 0, 0, 0 ],
+    [ 0, 1, 0, 1, 0 ],
+    [ 1, 0, 1, 0, 1 ],
+    [ 0, 1, 0, 1, 0 ],
+    [ 1, 0, 1, 0, 1 ]
+  ],
+  "DieSize": 20,
+  "DiePitchX": 40,
+  "DiePitchY": 40,
+  "WaferDiameter": 300,
+  "WaferCenterX": 200,
+  "WaferCenterY": 200
+}
